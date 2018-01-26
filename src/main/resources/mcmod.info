@@ -1,0 +1,12 @@
+[
+  {
+    "modid": "blockdebugger",
+    "name": "BlockDebugger",
+    "description": "BlockDebugger",
+    "version": "${version}",
+    "mcversion": "1.12.2",
+    "url": "https://github.com/Kotori316/BlockDebugger",
+    "authors": [ "Kotori" ],
+    "dependencies": [ ]
+  }
+]

@@ -1,0 +1,14 @@
+/run
+/server
+# idea
+out
+*.ipr
+*.iws
+*.iml
+
+# gradle
+build
+.gradle
+
+FILES
+libs
